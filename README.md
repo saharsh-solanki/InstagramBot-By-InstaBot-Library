@@ -19,11 +19,11 @@
 
 ### 3. Goto Credential.py file Enter your instagram username and password 
 
-###4. Now Just Run bot.py 
+### 4. Now Just Run bot.py 
 
 ```python bot.py```
 
-###5. Now it will ask you to select method from the list choose any one
+### 5. Now it will ask you to select method from the list choose any one
 
 
 ##  Errors
