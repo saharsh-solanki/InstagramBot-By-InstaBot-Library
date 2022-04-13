@@ -28,6 +28,6 @@
 
 ##  Errors
 
-###1. If you get this type of error like 
+### 1. If you get this type of error like 
 
 ```Exception: Not logged in!``` it means the username and password is incorrect 
